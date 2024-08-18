@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is a placeholder organisation. 
 <!--
 
 **Here are some ideas to get you started:**
